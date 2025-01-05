@@ -1,2 +1,2 @@
 # OpenBudget
-An open source zero-based budgeting app
+An open-source zero-based budgeting app
